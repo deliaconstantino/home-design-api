@@ -1,0 +1,6 @@
+@HomeDesignAPI_HostAddress = http://localhost:5125
+
+GET {{HomeDesignAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

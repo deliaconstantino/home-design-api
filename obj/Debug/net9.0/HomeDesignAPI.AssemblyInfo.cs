@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeDesignAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ca9b27669e978dde9422aab3eebc59e35eac64")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeDesignAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeDesignAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
